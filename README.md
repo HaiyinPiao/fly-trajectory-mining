@@ -11,3 +11,8 @@ ______________________________
  each record in 1 second was composed as below:
  
  x | y | z | y_global_load_factor | time_in_seconds
+
+
+______________________________
+
+You could generate more time series samples by using my matlab program 'run.m' and simulink model 'maneuver_generator.slx'
