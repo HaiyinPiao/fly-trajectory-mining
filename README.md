@@ -21,8 +21,7 @@ You could generate more time series samples by using my matlab program 'run.m' a
 Clustering Results seems good. 
 ______________________________
 Flight Trajectory Hierarchical Clustering Dendrogram
-![](https://github.com/HaiyinPiao/fly-trajectory-mining/plot_dendrogram.png)
+![](https://raw.githubusercontent.com/HaiyinPiao/fly-trajectory-mining/raw/master/plot_dendrogram.png)
 
 Flight Trajectory Cluster 3D Scatter Plot
-![](https://github.com/HaiyinPiao/fly-trajectory-mining/3d_traj_scatter.png)
-
+![](https://raw.githubusercontent.com/HaiyinPiao/fly-trajectory-mining/raw/master/3d_traj_scatter.png)
