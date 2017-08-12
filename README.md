@@ -1,5 +1,5 @@
 # fly-trajectory-mining
-A fighter fly out trajectory time series data mining demo, I use agnes and k-means to clustering the flyout data samples into left, straight and right categories. This app includes a fly out trajectory generation program which was developed by matlab and simulink 
+A fighter fly out trajectory time series data mining demo, I use agnes and convolution operator metric and AGNES algorithm to clustering the flyout data samples into left, straight and right categories. This app includes a fly out trajectory generation program which was developed by matlab and simulink 
 
 
 1.To dude Sun Yang:
@@ -15,16 +15,28 @@ You could generate more time series samples by using my matlab program 'run.m' a
 
 
 
+
+
+
+
+
 2.Clustering Algorithm adopted by haiyin piao
 ______________________________
 
 2.1
 time series dictance metric by convolution operator.
+
 ![](https://raw.githubusercontent.com/HaiyinPiao/fly-trajectory-mining/master/res/TS-distance-principle.png)
 
 2.2
 AGNES algorithm.
+
 ![](https://raw.githubusercontent.com/HaiyinPiao/fly-trajectory-mining/master/res/agnes-principle.jpg)
+
+
+
+
+
 
 
 
